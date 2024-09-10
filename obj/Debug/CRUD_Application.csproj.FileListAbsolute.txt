@@ -1,0 +1,13 @@
+D:\C#\CRUD\CRUD_Application\bin\Debug\CRUD_Application.exe.config
+D:\C#\CRUD\CRUD_Application\bin\Debug\CRUD_Application.exe
+D:\C#\CRUD\CRUD_Application\bin\Debug\CRUD_Application.pdb
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.csproj.AssemblyReference.cache
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.Form1.resources
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.Properties.Resources.resources
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.csproj.GenerateResource.cache
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.csproj.CoreCompileInputs.cache
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.exe
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_Application.pdb
+D:\C#\CRUD\CRUD_Application\bin\Debug\System.Data.SqlClient.dll
+D:\C#\CRUD\CRUD_Application\bin\Debug\System.Data.SqlClient.xml
+D:\C#\CRUD\CRUD_Application\obj\Debug\CRUD_App.4AE2CF4F.Up2Date
